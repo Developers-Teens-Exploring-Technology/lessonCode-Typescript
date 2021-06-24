@@ -4,4 +4,4 @@ This is the lesson code the tech team @ teens exploring technology will be using
 
 command to run in terminal to compile: 
 
- - tsc ./lesson.ts && node lesson.js
+`tsc ./lesson.ts && node lesson.js`

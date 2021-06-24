@@ -25,6 +25,9 @@ for(let counter = 0; counter < techTeam.length; counter++){
     if(counter % 2 == 0){
         console.log(counter + " is even");
     }
+    else{
+        console.log(counter + " is odd");
+    }
 }
 let person = {
     name : "Elmer",

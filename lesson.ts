@@ -1,4 +1,3 @@
-import internal from "node:stream";
 
 const number2 = 4; 
 let number3 = 5; 
